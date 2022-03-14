@@ -18,13 +18,14 @@ public class SeleçãoExerc1
             {
              x = x/2;
             }
-            
+
             else
             {
              x = 3 * x + 1;
             }
 
             System.out.println(x+"->");
+            resultadox.close();
         } 
     }   
 }
